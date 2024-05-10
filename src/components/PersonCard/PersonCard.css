@@ -1,0 +1,8 @@
+.PersonCard button {
+    padding: 7px;
+    background-color: lightsteelblue;
+    border: none;
+}
+.PersonCard {
+    list-style: none;
+}
